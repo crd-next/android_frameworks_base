@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2021 crDroid Android Project
+     Copyright (C) 2016-2022 crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -26,9 +26,6 @@
     <!-- Message shown to the user when the apps requests permission from this group. If ever possible this should stay below 80 characters (assuming the parameters takes 20 characters). Don't abbreviate until the message reaches 120 characters though. [CHAR LIMIT=120] -->
     <string name="permgrouprequest_fake_package_signature">Autoriser
         &lt;b&gt;<xliff:g id="app_name" example="Gmail">%1$s</xliff:g>&lt;/b&gt; la falsification de l\'application ?</string>
-    <!-- Advenced reboot -->
-    <string name="reboot_title">Redémarrer</string>
-    <string name="reboot_message">Redémarrage du système</string>
     <!-- Pocket Lock -->
     <string name="pocket_lock_message_long_press">Appuyez et maintenez le bouton Marche/Arrêt pour déverrouiller</string>
     <string name="pocket_view_title">Le mode poche est activé</string>
