@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2021 crDroid Android Project
+     Copyright (C) 2016-2022 crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -24,11 +24,6 @@
     <string name="quick_settings_sound_ring">铃声</string>
     <string name="quick_settings_sound_vibrate">振动</string>
     <string name="quick_settings_sound_dnd">请勿打扰</string>
-    <!-- Advanced Reboot -->
-    <string name="global_action_restart_system">系统</string>
-    <string name="global_action_restart_recovery">恢复模式</string>
-    <string name="global_action_restart_bootloader">引导程序</string>
-    <string name="global_action_restart_ui">系统界面</string>
     <!-- On The Go -->
     <string name="onthego_notif_ticker">行走模式已激活</string>
     <string name="onthego_notif_title">行走模式处于活动状态</string>
