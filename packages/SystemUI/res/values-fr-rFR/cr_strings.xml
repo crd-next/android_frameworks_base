@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2021 crDroid Android Project
+     Copyright (C) 2016-2022 crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -24,11 +24,6 @@
     <string name="quick_settings_sound_ring">Sonner</string>
     <string name="quick_settings_sound_vibrate">Vibrer</string>
     <string name="quick_settings_sound_dnd">Ne pas déranger</string>
-    <!-- Advanced Reboot -->
-    <string name="global_action_restart_system">Système</string>
-    <string name="global_action_restart_recovery">Récupération</string>
-    <string name="global_action_restart_bootloader">Amorçage</string>
-    <string name="global_action_restart_ui">Interface utilisateur</string>
     <!-- On The Go -->
     <string name="onthego_notif_ticker">On-The-Go activé</string>
     <string name="onthego_notif_title">On-The-Go est actif</string>
