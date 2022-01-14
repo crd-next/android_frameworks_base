@@ -83,4 +83,6 @@
     <string name="screenrecord_stopdot_label">Dayanma nöqtəsini göstər\nHərəkət etdirmək üçün uzun toxun</string>
     <string name="screenrecord_lowquality_label">Kiçik həcm üçün düşük keyfiyyət</string>
     <string name="screenrecord_longer_timeout_switch_label">Faylın maksimum həcmi\nFaylın həcmi maksimum 15GB olsun</string>
+    <!-- Power menu QS tile -->
+    <string name="quick_settings_power_menu_label">Power menu</string>
 </resources>
