@@ -83,4 +83,6 @@
     <string name="screenrecord_stopdot_label">停止ドットを表示\n長押しして移動</string>
     <string name="screenrecord_lowquality_label">低品質にしてファイルサイズ縮小</string>
     <string name="screenrecord_longer_timeout_switch_label">ファイルサイズ制限です\n録画サイズを15 GBに制限します</string>
+    <!-- Power menu QS tile -->
+    <string name="quick_settings_power_menu_label">Power menu</string>
 </resources>
