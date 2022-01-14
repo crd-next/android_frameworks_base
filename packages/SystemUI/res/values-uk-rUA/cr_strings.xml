@@ -84,5 +84,5 @@
     <string name="screenrecord_lowquality_label">Низька якість для меншого розміру файлу</string>
     <string name="screenrecord_longer_timeout_switch_label">Більший розмір файлу\nОбмежити розмір запису до 15ГБ</string>
     <!-- Power menu QS tile -->
-    <string name="quick_settings_power_menu_label">Power menu</string>
+    <string name="quick_settings_power_menu_label">Меню кнопки живлення</string>
 </resources>
