@@ -83,4 +83,6 @@
     <string name="screenrecord_stopdot_label">Zobraziť bodku pre zastavenie nahrávania\nDluhým stlačením ji presuniete</string>
     <string name="screenrecord_lowquality_label">Nižšia kvalita pre zabezpečenie menšej veľkosti súboru</string>
     <string name="screenrecord_longer_timeout_switch_label">Väčší limit veľkosti súboru\nObmedzte veľkosť záznamu na 15GiB</string>
+    <!-- Power menu QS tile -->
+    <string name="quick_settings_power_menu_label">Power menu</string>
 </resources>
