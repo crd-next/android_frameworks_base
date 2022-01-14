@@ -164,6 +164,7 @@ public class SolidLineRenderer extends Renderer {
 
     @Override
     public void onFFTUpdate(byte[] fft) {
+        if (fft == null) return;
         int fudgeFactor = mKeyguardShowing ? mDbFuzzFactor * 4 : mDbFuzzFactor;
         for (int i = 0; i < mUnits; i++) {
             if (mValueAnimators[i] == null) continue;
