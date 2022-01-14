@@ -83,4 +83,6 @@
     <string name="screenrecord_stopdot_label">Stopppunkt anzeigen\nGedrückt halten, um ihn zu verschieben</string>
     <string name="screenrecord_lowquality_label">Qualität verringern für kleinere Dateigröße</string>
     <string name="screenrecord_longer_timeout_switch_label">Größere Dateigröße erlauben\nBegrenzung der Aufnahmegröße auf 15 GiB</string>
+    <!-- Power menu QS tile -->
+    <string name="quick_settings_power_menu_label">Power menu</string>
 </resources>
