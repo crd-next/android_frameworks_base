@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2021 crDroid Android Project
+     Copyright (C) 2016-2022 crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -24,11 +24,6 @@
     <string name="quick_settings_sound_ring">벨소리</string>
     <string name="quick_settings_sound_vibrate">진동</string>
     <string name="quick_settings_sound_dnd">방해 금지</string>
-    <!-- Advanced Reboot -->
-    <string name="global_action_restart_system">시스템</string>
-    <string name="global_action_restart_recovery">복구 모드</string>
-    <string name="global_action_restart_bootloader">부트 로더</string>
-    <string name="global_action_restart_ui">시스템 UI</string>
     <!-- On The Go -->
     <string name="onthego_notif_ticker">On-The-Go 활성화됨</string>
     <string name="onthego_notif_title">On-The-Go가 활성화 되었습니다</string>
